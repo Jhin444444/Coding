@@ -2,5 +2,5 @@
 
 ---
 
-[GOOGLE Colab](https://replit.com/@Jhin4?showcase=1)
+[Replit](https://replit.com/@Jhin4?showcase=1)
 
