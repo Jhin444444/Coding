@@ -8,7 +8,7 @@
 
 ---
 
-Ссылка на Colab про л/р по циклам
+Ссылка на Colab 
 -
-[Блокнот Colab](https://colab.research.google.com/drive/1e5dd-ANZHbVxSvs36kI3Rib1cUH1weSt?usp=sharing)
+[Лабораторная работа по циклам](https://colab.research.google.com/drive/1e5dd-ANZHbVxSvs36kI3Rib1cUH1weSt?usp=sharing)
  
