@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\bin\Debug\Самостоятельная2.exe.config
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\bin\Debug\Самостоятельная2.exe
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\bin\Debug\Самостоятельная2.pdb
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.Form1.resources
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.exe
+C:\Users\User\Desktop\C#\Самостоятельная2\Самостоятельная2\obj\Debug\Самостоятельная2.pdb
