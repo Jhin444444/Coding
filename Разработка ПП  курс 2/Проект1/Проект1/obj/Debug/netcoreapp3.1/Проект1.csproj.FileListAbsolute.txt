@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\Проект1\Проект1\bin\Debug\netcoreapp3.1\Проект1.exe
+C:\Users\User\Desktop\C#\Проект1\Проект1\bin\Debug\netcoreapp3.1\Проект1.deps.json
+C:\Users\User\Desktop\C#\Проект1\Проект1\bin\Debug\netcoreapp3.1\Проект1.runtimeconfig.json
+C:\Users\User\Desktop\C#\Проект1\Проект1\bin\Debug\netcoreapp3.1\Проект1.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\Проект1\Проект1\bin\Debug\netcoreapp3.1\Проект1.dll
+C:\Users\User\Desktop\C#\Проект1\Проект1\bin\Debug\netcoreapp3.1\Проект1.pdb
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.Form1.resources
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.dll
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.pdb
+C:\Users\User\Desktop\C#\Проект1\Проект1\obj\Debug\netcoreapp3.1\Проект1.genruntimeconfig.cache
