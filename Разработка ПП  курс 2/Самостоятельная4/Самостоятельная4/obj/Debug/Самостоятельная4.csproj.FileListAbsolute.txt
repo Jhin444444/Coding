@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\bin\Debug\Самостоятельная4.exe.config
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\bin\Debug\Самостоятельная4.exe
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\bin\Debug\Самостоятельная4.pdb
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\Самостоятельная4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\LabRab1_sr4.Form1.resources
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\Самостоятельная4.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\Самостоятельная4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\Самостоятельная4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\Самостоятельная4.exe
+C:\Users\User\Desktop\C#\Самостоятельная4\Самостоятельная4\obj\Debug\Самостоятельная4.pdb
